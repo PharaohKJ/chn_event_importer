@@ -36,7 +36,9 @@ tasks:
 
   - title: 実施報告をまとめる
     body: |
-      - [ ] まとめページ作成(Facebookページでよい)
+      - [ ] まとめページ作成(CfK 公式HPに作成する)
+        - WordPress なのでアカウントを取得して書いてもらう
+      - [ ] まとめページを Facebook グループに書き込む
         - https://www.facebook.com/CivicHackNight/
       - [ ] 入門者卓FAQ更新
       - [ ] 上級者卓まとめ作成
