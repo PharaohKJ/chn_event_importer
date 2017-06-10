@@ -1,4 +1,4 @@
-event: 2017-05
+event: Vol.22 (06月)
 repository: codeforkanazawa-org/chn
 tasks:
   - title: SNSで集客する
@@ -15,8 +15,10 @@ tasks:
   - title: 内容・場所・日時を決める
     body: |
       - [ ] Facebook イベントを作成
+        - https://www.facebook.com/CivicHackNight
         - 詳細はconnpass参照とする
       - [ ] connpassイベントを作成
+        - https://cfk.connpass.com
       - [ ] 企画する(基本 meetup)
       - [ ] 場所を決める
         - 金沢中心でありつつも、できれば石川県単位で。
