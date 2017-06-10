@@ -14,8 +14,8 @@ client = Octokit::Client.new(
   password: ENV['GITHUB_TOKEN']
 )
 
-repository = ENV['TEST_REPO'] || yml['repository']
-eventname  = yml['event']
+repository = ENV['TEST_REPO']  || yml['repository']
+eventname  = ENV['EVENT_NAME'] || yml['event']
 yml['tasks'].each do |t|
   p client.create_issue(
     repository,
