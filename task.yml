@@ -1,4 +1,4 @@
-event: Vol.23 (07月)
+event: Vol.27 (11月)
 repository: codeforkanazawa-org/chn
 tasks:
   - title: SNSで集客する
@@ -14,11 +14,13 @@ tasks:
 
   - title: 内容・場所・日時を決める
     body: |
-      - [ ] Facebook イベントを作成
-        - https://www.facebook.com/CivicHackNight
-        - 詳細はconnpass参照とする
       - [ ] connpassイベントを作成
         - https://cfk.connpass.com
+      - [ ] Facebook イベントを作成
+        - https://www.facebook.com/CivicHackNight
+        - 詳細はconnpass参照とする(イベントのチケットURLをconnpass参照にすること)
+      - [ ] カレンダーに記入
+        - https://goo.gl/ieQA7r 権限がないときは運営まで要連絡
       - [ ] 企画する(基本 meetup)
       - [ ] 場所を決める
         - 金沢中心でありつつも、できれば石川県単位で。
@@ -40,9 +42,10 @@ tasks:
     body: |
       - [ ] まとめページ作成(CfK 公式HPに作成する)
         - WordPress なのでアカウントを取得して書いてもらう
-      - [ ] まとめページを Facebook グループに書き込む
+      - [ ] まとめページURLを Facebook グループに書き込む
         - https://www.facebook.com/CivicHackNight/
       - [ ] 入門者卓FAQ更新
+        - [ ] FAQ更新を Facebook グループ( https://www.facebook.com/CivicHackNight/ ) に連絡する
       - [ ] 上級者卓まとめ作成
 
   - title: 会計報告
